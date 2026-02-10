@@ -5,7 +5,7 @@ Archtop Guitar builder - contour map generation for luthiers carving
 
 When Luthiers create an archtop guitar, they need a shaped profile to create the cuved top of the guitar front and the rear
 
-The curve in use is a Curtate Cyloid:
+The curve in use is a Curtate Cycloid:
 <img width="1036" height="320" alt="Screenshot 2026-02-10 at 14 32 37" src="https://github.com/user-attachments/assets/c7c65110-dbaa-492b-bce0-c13a8f89c440" />
 Source: https://www.researchgate.net/figure/Curtate-common-and-prolate-trochoids-The-common-trochoid-is-also-called-a-cycloid_fig2_361278698
 More info on cycloids can be found here: https://tomrocksmaths.com/wp-content/uploads/2021/05/teddy-rocks-maths-1-1.pdf
