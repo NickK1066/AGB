@@ -42,6 +42,7 @@ I've also included the inside 'GOR.csv' which is a real life non-symetrical outl
 This is an example of an earlier iteration being tested:
 ![jpeg](https://github.com/user-attachments/assets/55f4da7f-6bc7-42bc-8fe3-b2947e740ce8)
 
+Warning: Use at your own risk. I cannot and will not be held accountable for the use or intended use of this software.
 
 **Why?**
 
