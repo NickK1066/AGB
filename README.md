@@ -1,7 +1,8 @@
-# AGB
+# AGB - Archtop Guitar Builder
 Archtop Guitar builder - contour map generation for luthiers carving
 
 **what is it**
+
 When Luthiers create an archtop guitar, they need a shaped profile to create the cuved top of the guitar front and the rear
 
 The curve in use is a Curtate Cyloid:
@@ -43,5 +44,6 @@ This is an example of an earlier iteration being tested:
 
 
 **Why?**
+
 I've spent the last 30 years developing solutions and operating services - from developer through to Chief. With the emergence of AI, I've had to do AI at Oxford SBS to build on my Software Engineering degree and experience and also statistics. To really understand the pit falls of engineering with AI, it helps in having handson experience solving real world problems to empathise with engineers and teams. It pushes me to use more python too.
 The code here isn't quite as simple as it seems given the realworld outline aren't uniform or symmetrical. As a result the input data needs resampling before shaping curves. It uses numerical iterative bisectional searching to solve x=a*t-b*sin(t), but with varying asymmetrical curves this requires different a and b radii for each curve.
