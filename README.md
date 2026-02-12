@@ -19,12 +19,15 @@ The result of the tool is a height above the wood base, that allows for the thic
  <img width="790" height="812" alt="plot" src="https://github.com/user-attachments/assets/b44d4098-d284-423f-b62e-f1285c09a815" />
 
 The resulting plot is the colour coded into contours and that can then be printed out to allow the top to be carved. Here's a 0.5 and 1mm step used for carving: 
-<img width="976" height="798" alt="low-res-approx-1mm steps" src="https://github.com/user-attachments/assets/86724b0b-a9fa-4ead-9fbc-2e4dd7921754" />
+<img width="1232" height="653" alt="Screenshot 2026-02-12 at 07 31 39" src="https://github.com/user-attachments/assets/d4393ee5-2793-4516-8998-8473aa6d1d6e" />
+The displayed contours can be filled or line which is useful.
 
-The same but with 0.1mm steps showing more resolution and the smoothness:
-<img width="985" height="798" alt="hi-res-new" src="https://github.com/user-attachments/assets/9211afc1-92d9-4255-9981-eb2aaa474524" />
+The code also creates a png for front and rear plates that is scaled to 1pixel/mm for easy printing, here being used on a European Spruce wedge for the soundboard:
+![IMG_5390](https://github.com/user-attachments/assets/61c73d9a-c825-4d33-b5d8-7a92e5ec7062)
 
-The code also generates a rear arch - this is traditionally different in that it dome centre point is symetrically centre. Note you will need to mirror the contour if you have a non-symetrical outline.
+The code also generates a rear arch - this is traditionally different in that it dome centre point is symetrically centre. Note you will need to mirror the contour if you have a non-symetrical outline, here being used on a Maple wedge (actually an old cello wedge):
+![IMG_5391](https://github.com/user-attachments/assets/a79551fb-f714-474b-bb10-0b417afcb578)
+
 
 **instructions for use**
 
