@@ -127,7 +127,13 @@ I will be cutting my wedge down to near flat dimensions of the bridge point. The
 Here's an example drill plan, showing how I use the brad bit as a depth gauge:
 <img width="1036" height="801" alt="Screenshot 2026-02-27 at 11 38 33" src="https://github.com/user-attachments/assets/8657512b-89ad-402d-8d4d-e0f04294fa42" />
 
+The result looks like this initially - here I'm planing down and removing the excess:
+![IMG_5462](https://github.com/user-attachments/assets/938f9a40-1189-49d1-9a41-98d017d11f89)
+
 The inside I'll use a duplicate flipped contour map but I will mark out the depths of the contours so that the thickness is 6mm. This means that the routing only starts in the inner contours, then finish with scrapers and planes during the tuning process. I plan to use chladni patterns and modes to refine to create clear lines. I can use the same 0.0005" 1" travel gauge to ensure an even thickness.
+
+And the underside process:
+![IMG_5438](https://github.com/user-attachments/assets/873773f1-fe71-4d41-a50e-a3b959e56d91)
 
 I have a test rig for downforce, which will allow me to check top depression with the calculated bridge downforce using the same 0.0005" gauge to detect the movement of the top. I will then brace and tune the braces using a spectrum analysis tool.
 
