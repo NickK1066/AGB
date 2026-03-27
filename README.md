@@ -1,4 +1,4 @@
-# AGB - Archtop Guitar Builder
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/481d45f3-fa63-43f0-b377-184ada487873" /># AGB - Archtop Guitar Builder
 Archtop Guitar builder - contour map generation for luthiers carving
 
 **what is it**
@@ -124,6 +124,9 @@ At this point you have many options but it depends on your wood and build approa
 
 I will be cutting my wedge down to near flat dimensions of the bridge point. Then transferring the contours to the wood and using a drill & router around the copied pencil contour lines. Todo this I have added a 30mm edge around the outside of the outline on the wood. That edge will then support the router bars during the routing around the outlines. I'll route down to near depth before switching to wood scrapers to smooth and approach the final depth, measuring with a 0.0005" graduated engineering gauge.
 
+Here's an example drill plan, showing how I use the brad bit as a depth gauge:
+<img width="1036" height="801" alt="Screenshot 2026-02-27 at 11 38 33" src="https://github.com/user-attachments/assets/8657512b-89ad-402d-8d4d-e0f04294fa42" />
+
 The inside I'll use a duplicate flipped contour map but I will mark out the depths of the contours so that the thickness is 6mm. This means that the routing only starts in the inner contours, then finish with scrapers and planes during the tuning process. I plan to use chladni patterns and modes to refine to create clear lines. I can use the same 0.0005" 1" travel gauge to ensure an even thickness.
 
 I have a test rig for downforce, which will allow me to check top depression with the calculated bridge downforce using the same 0.0005" gauge to detect the movement of the top. I will then brace and tune the braces using a spectrum analysis tool.
@@ -131,9 +134,17 @@ I have a test rig for downforce, which will allow me to check top depression wit
 The rear I will then do precisely the same process (the dome hieght is 15mm), but I will tune for a number of steps higher in pitch to avoid woof notes.
 
 8. Enjoy!
+   
+And the top which I'm currently working on - you can see the top contour shape after removing the wood down to the depth markers:
+[IMG_5479](https://github.com/user-attachments/assets/51ab0461-cdd0-47ab-a22c-93a121e1f0dc)
+
+The underside I'm currently working on - note that after cutting down to the drill markers, scrapers and thickness measurements are used to ensure the correct profile (this is part way through this process):
+![IMG_5560](https://github.com/user-attachments/assets/01bda069-4288-4fac-bfad-8b9f95bff6b0)
 
 
 **Why?**
 
 I've spent the last 30 years developing solutions and operating services - from developer through to Chief. With the emergence of AI, I've had to do AI at Oxford SBS to build on my Software Engineering degree and experience and also statistics. To really understand the pit falls of engineering with AI, it helps in having handson experience solving real world problems to empathise with engineers and teams. It pushes me to use more python too.
 The code here isn't quite as simple as it seems given the realworld outline aren't uniform or symmetrical. As a result the input data needs resampling before shaping curves. It uses numerical iterative bisectional searching to solve x=a*t-b*sin(t), but with varying asymmetrical curves this requires different a and b radii for each curve.
+
+Note it appears that gihhub needs overreaching identity verification, so I will no longer be able to update this. Have a look on the internet forums and you should be able to find updated versions of this as and when they become available.
