@@ -135,14 +135,11 @@ The rear I will then do precisely the same process (the dome hieght is 15mm), bu
 
 8. Enjoy!
 
+And the top which I'm currently working on - you can see the top contour shape after removing the wood down to the depth markers:
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/481d45f3-fa63-43f0-b377-184ada487873" />
 
-And the top which I'm currently working on - you can see the top contour shape after removing the wood down to the depth markers:
-[IMG_5479](https://github.com/user-attachments/assets/51ab0461-cdd0-47ab-a22c-93a121e1f0dc)
-
-The underside I'm currently working on - note that after cutting down to the drill markers, scrapers and thickness measurements are used to ensure the correct profile (this is part way through this process):
+The underside I'm currently working on - note that after cutting down to the drill markers, scrapers and thickness measurements are used to ensure the correct profile (this is part way through this process using chldani patterns):
 ![IMG_5560](https://github.com/user-attachments/assets/01bda069-4288-4fac-bfad-8b9f95bff6b0)
-
 
 **Why?**
 
